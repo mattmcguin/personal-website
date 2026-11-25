@@ -24,14 +24,14 @@ const workRows = [
   {
     company: "Hadrius",
     role: "Engineering",
-    period: "Current",
+    period: "Mar 2026 - Present",
     icon: "/images/work/hadrius.png",
     companyUrl: hadriusUrl,
   },
   {
     company: "Perch Reader",
     role: "Co-Founder + CTO",
-    period: "Past",
+    period: "Apr 2023 - Mar 2026",
     icon: "/images/work/perch-reader.png",
     filePath: "work/perch.app",
   },
