@@ -1,4 +1,4 @@
-# <img src="/images/work/perch-reader.png" alt="Perch Reader logo" width="30" height="30" /> Perch Reader ([perch.app](https://perch.app))
+# <img src="/images/work/perch-reader.png" alt="Perch Reader logo" width="30" height="30" /> Perch Reader
 
 ![Users](https://img.shields.io/badge/Users-~20K-2ea043?style=for-the-badge) ![Publications](https://img.shields.io/badge/Publications-13K-1f6feb?style=for-the-badge) ![Articles](https://img.shields.io/badge/Articles-3.3M-6f42c1?style=for-the-badge)
 
@@ -9,7 +9,7 @@ Free reading aggregator focused on delivering a beautiful, distraction-free read
 - **Role:** Co-Founder + CTO
 - **Team:** **2** founders + **4** engineers + **1** designer
 - **Scale:** **~20K** users, **13K** publications, **3.3M** indexed articles
-- **Product:** [iOS](https://apps.apple.com/us/app/perch-reader/id6474042480) | [Android](https://play.google.com/store/apps/details?id=com.gmlabs.perch&hl=en_US) | [Web](https://perch.app)
+- **Platforms:** iOS, Android, and web (since sunset)
 
 # Product Positioning
 

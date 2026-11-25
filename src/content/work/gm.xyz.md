@@ -1,4 +1,4 @@
-# <img src="/images/work/gm-xyz.png" alt="gm.xyz logo" width="30" height="30" /> gm.xyz ([gm.xyz](https://gm.xyz))
+# <img src="/images/work/gm-xyz.png" alt="gm.xyz logo" width="30" height="30" /> gm.xyz
 
 ![Total Users](https://img.shields.io/badge/Total%20Users-~30K-2ea043?style=for-the-badge)
 
@@ -9,7 +9,7 @@ Crypto-native social network for communities built around tokens, NFTs, and DAOs
 - **Role:** Co-Founder + CTO
 - **Team:** **2** founders + **2** engineers + **1** designer
 - **Scale:** **~30K** users
-- **Product:** Web + iOS + Android(All platforms are now deprecated)
+- **Platforms:** Web, iOS, and Android (since sunset)
 
 # Product Positioning
 

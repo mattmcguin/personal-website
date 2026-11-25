@@ -1,4 +1,4 @@
-# <img src="https://mattmcguiness.com/images/work/joinperch.com.png" alt="Perch logo" width="30" height="30" /> Perch ([joinperch.com](https://joinperch.com))
+# <img src="/images/work/joinperch.com.png" alt="Perch logo" width="30" height="30" /> Perch (joinperch.com)
 
 Creator platform that turns audience questions into newsletters and SEO-friendly knowledge pages.
 
@@ -23,4 +23,4 @@ joinperch.com lets anyone host an AMA (Ask Me Anything) on their own domain with
 
 # Outcome
 
-joinperch.com reached meaningful early scale with over 1,000 creators and roughly 100K unique users, validating that creator Q&A can work as both a growth loop and a monetization engine. Creators are still using the product today.
+joinperch.com reached meaningful early scale with over 1,000 creators and roughly 100K unique users, validating that creator Q&A can work as both a growth loop and a monetization engine.

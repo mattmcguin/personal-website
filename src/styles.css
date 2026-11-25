@@ -1455,10 +1455,6 @@ button {
   font-weight: 500;
 }
 
-.welcome-prose-list {
-  margin-bottom: 0;
-}
-
 .welcome-social-row {
   margin-top: auto;
   display: flex;

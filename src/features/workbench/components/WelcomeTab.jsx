@@ -1,5 +1,7 @@
 import { useEffect, useState } from "react";
 
+const hadriusUrl = "https://www.hadrius.com/";
+
 const socialLinks = [
   {
     name: "github",
@@ -20,9 +22,16 @@ const socialLinks = [
 
 const workRows = [
   {
-    company: "Perch",
-    role: "Co-Founder + CTO",
+    company: "Hadrius",
+    role: "Engineering",
     period: "Current",
+    icon: "/images/work/hadrius.png",
+    companyUrl: hadriusUrl,
+  },
+  {
+    company: "Perch Reader",
+    role: "Co-Founder + CTO",
+    period: "Past",
     icon: "/images/work/perch-reader.png",
     filePath: "work/perch.app",
   },
@@ -120,7 +129,7 @@ const goodreadsUrlByBook = {
   "AI 2041::Kai-Fu Lee and Chen Qiufan": "https://www.goodreads.com/book/show/56377201-ai-2041",
   "Demon Copperhead::Barbara Kingsolver": "https://www.goodreads.com/book/show/60194162-demon-copperhead",
   "Morning Star::Pierce Brown": "https://www.goodreads.com/book/show/18966806-morning-star",
-  "Golden Son::Pierce Brown": "https://www.goodreads.com/book/show/18966819-golden-son",
+  "Golden Son::Pierce Brown": "https://www.goodreads.com/book/show/18966819",
   "Red Rising::Pierce Brown": "https://www.goodreads.com/book/show/15839976-red-rising",
   "Jurassic Park::Michael Crichton": "https://www.goodreads.com/book/show/40604658-jurassic-park",
   "The Martian::Andy Weir": "https://www.goodreads.com/book/show/18007564-the-martian",
@@ -307,36 +316,23 @@ export default function WelcomeTab({ onOpenFile, introAction = null }) {
 
           <article className="welcome-prose">
             <p>
-              Hi, I'm the co-founder and CTO of{" "}
+              Hi, I’m an engineer at{" "}
               <a
-                href="https://perch.app"
+                href={hadriusUrl}
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Perch
+                Hadrius
               </a>
-              . Our mission is to make reading free and delightful, which we
-              wrote about here:
-              <ul className="welcome-prose-list">
-                <li>
-                  <a href="https://perch.app/blog/how-perch-will-make-reading-free">
-                    How Perch Will Make Reading Free
-                  </a>
-                </li>
-                <li>
-                  <a href="https://perch.app/blog/the-future-of-books">
-                    The Future of Books
-                  </a>
-                </li>
-              </ul>
+              {" "}building the future of automated compliance.
             </p>
 
             <p>
-              Before Perch I was the co-founder and CTO of gm.xyz, which was one
-              of the first crypto-native social networks to reach tens of
-              thousands of users. In hindsight, the idea was too early, but the
-              promise of decentralized social media is something I still believe
-              in.
+              Previously, I co-founded Perch Reader and gm.xyz and served as CTO
+              of both. gm.xyz was one of the first crypto-native social networks
+              to reach tens of thousands of users. In hindsight, the idea was
+              too early, but the promise of decentralized social media is
+              something I still believe in.
             </p>
 
             <p>
